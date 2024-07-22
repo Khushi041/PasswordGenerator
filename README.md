@@ -1,1 +1,2 @@
-![Screenshot (293)](https://github.com/user-attachments/assets/ed27f813-88d9-4f45-9cf0-5bda3c9db1c1)
+The Password Generator is a simple and secure tool designed to help users create strong, random passwords. This ensures that passwords are difficult to guess or crack, enhancing the security of online accounts and sensitive information. Whether you need a password for a new account, want to update an old one, or require multiple passwords, this app provides a quick and easy solution.
+![Screenshot (293)](https://github.com/user-attachments/assets/a4a74dbc-5d50-4a47-81ef-1c96b0a751fb)
